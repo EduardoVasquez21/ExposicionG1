@@ -66,19 +66,6 @@ public class Main {
     else{
             System.out.println("El numero es de otro país");}*/
         
-
-        
-        
-        
-        
-        //Ejemplo de Split con fechas
-
-        /*String cadena = "2020-11-21";
-        String [] fragmentos = cadena.split("-");
-        System.out.println("Formato dd-mm-yyyy: "+fragmentos[2]+"-"+fragmentos[1]+"-"+fragmentos[0]);
-        //System.out.println("Formato yyyy-mm-dd: "+fragmentos[0]+"-"+fragmentos[1]+"-"+fragmentos[2]);
-        //System.out.println("Formato mm-dd-yyyy: "+fragmentos[1]+"-"+fragmentos[2]+"-"+fragmentos[0]);
-        //System.out.println("Formato yyyy-dd-mm: "+fragmentos[0]+"-"+fragmentos[2]+"-"+fragmentos[1]);*/
         
         /*
         String srcstring="Esta es una prueba acerca de separar";
